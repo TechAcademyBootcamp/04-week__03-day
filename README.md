@@ -1,1 +1,1 @@
-# 04-week__03-day
+## Clone pixel perfect responsive template
